@@ -7,4 +7,5 @@ package bgu.spl.mics;
  */
 public interface Broadcast extends Message {
 ///hi shai
+    //lkj
 }
